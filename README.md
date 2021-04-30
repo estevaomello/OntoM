@@ -39,6 +39,6 @@ The notebook script can be found at the 'notebook_analysis' folder, download thi
 
 You might need to update the notebook script to point to the generated CSV files in the previous steps.
 
-PS: A HTML version of the Notebook with the final results is also in the 'notebook_analysis' folder.
+PS: A HTML version of the Notebook with the final results ('analysis_results.html') is also in the 'notebook_analysis' folder. Download the file to your computer and open it to see the results. If you only click on this, it will show the source code, which is useless for you. Download it and then open it as HTML page in your preferred browser.
 
 ### DONE! Now you can run additional experiments, analysis and share with us!
