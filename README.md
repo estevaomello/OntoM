@@ -2,7 +2,7 @@
 Repo for the Ontology of Monotheism,
 by Bobiquins Estevao de Mello and Bernardo Pereira Nunes
 
-To reproduce the results presented in the experiments of thesis OntoM, you must follow the steps below. We tried to make it as simple as possible so that researchers not very familiar with python and BERT could reproduce the results with little effort.
+To reproduce the results presented in the experiments of the thesis OntoM, you must follow the steps below. We tried to make it as simple as possible so that researchers not very familiar with python and BERT could reproduce the results with little effort.
 
 1. Install Bert as a Service (follow the detailed instructions at https://github.com/hanxiao/bert-as-service)
 2. Download the uncased large BERT pre-trained model at https://storage.googleapis.com/bert_models/2019_05_30/wwm_uncased_L-24_H-1024_A-16.zip
