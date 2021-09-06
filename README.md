@@ -1,13 +1,14 @@
-# WebAndReligion
-Repo for the Web and Religion research paper submitted to Hypertext 2021
+# OntoM
+Repo for the Ontology of Monotheism,
+by Bobiquins Estevao de Mello and Bernardo Pereira Nunes
 
-To reproduce the results presented in the article Hypertext 2021, you must follow the steps below. We tried to make it as simple as possible so that researchers not very familiar with python and BERT could reproduce the results with little effort.
+To reproduce the results presented in the experiments of thesis OntoM, you must follow the steps below. We tried to make it as simple as possible so that researchers not very familiar with python and BERT could reproduce the results with little effort.
 
 1. Install Bert as a Service (follow the detailed instructions at https://github.com/hanxiao/bert-as-service)
 2. Download the uncased large BERT pre-trained model at https://storage.googleapis.com/bert_models/2019_05_30/wwm_uncased_L-24_H-1024_A-16.zip
 3. Run the Bert as a Serice pointing to the the unzipped downloaded model using the following command: bert-serving-start -model_dir /your_directory/wwm_uncased_L-24_H-1024_A-16 -num_worker=4 -port XXXX -max_seq_len NONE (we refer to the bert as a service link to understand more about the parameters used. Replace XXXX to any port available in your computer, we used port 8190).
 
-### Great, BERT is now ready to start generating the embeddings!
+### BERT is now ready to start generating the embeddings!
 
 Now we need to run the scripts to generate the book and verse embeddings. To generate the book embeddings, we need to run the 'similarity_full.py' script.
 
