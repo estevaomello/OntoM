@@ -7,7 +7,9 @@ You can find the full academic document in http://btd.egc.ufsc.br/
 
 The structure and documentation of OntoM is accessible in https://ontom.org/
 
-Please, cite this thesis using: (MELLO, B. E., 2021) or (MELLO, Bobiquins Estêvão de, 2021)
+The files OntoM-v1.1.pdf and OntoM-v1.1.rtf contains the full documentation of classes and relations of OntoM.
+The file OntoM-v1.1.asta is the editable archive generated from Astah Professional 8.4.0, release 2021/06/30. model version 39.
+Please, cite this thesis using: (MELLO, B. E., 2021) or (MELLO, Bobiquins Estêvão de, 2021).
 
 ### Repo for the Ontology of Monotheism experiments,
 by Bobiquins Estevao de Mello and Bernardo Pereira Nunes:
