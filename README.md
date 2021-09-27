@@ -8,7 +8,7 @@ The structure and documentation of OntoM is accessible in https://ontom.org/
 Please, cite this thesis using: (MELLO, B. E., 2021) or (MELLO, Bobiquins Estêvão de, 2021)
 
 Repo for the Ontology of Monotheism experiments,
-by Bobiquins Estevao de Mello and Bernardo Pereira Nunes
+by Bobiquins Estevao de Mello and Bernardo Pereira Nunes:
 
 To reproduce the results presented in the experiments from the thesis OntoM, you must follow the steps below. We tried to make it as simple as possible so that researchers not very familiar with python and BERT could reproduce the results with little effort.
 
