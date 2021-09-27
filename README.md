@@ -1,5 +1,7 @@
 # OntoM
-The Ontology of Monotheism (OntoM) is a thesis developed by Bobiquins Estêvão de Mello at Graduate Program in Knowledge Engineering and Management in the Federal University of Santa Catarina, Florianópolis, SC, Brazil. 
+
+### The Ontology of Monotheism (OntoM) 
+is a thesis developed by Bobiquins Estêvão de Mello at Graduate Program in Knowledge Engineering and Management in the Federal University of Santa Catarina, Florianópolis, SC, Brazil. 
 
 You can find the full academic document in http://btd.egc.ufsc.br/
 
@@ -7,7 +9,7 @@ The structure and documentation of OntoM is accessible in https://ontom.org/
 
 Please, cite this thesis using: (MELLO, B. E., 2021) or (MELLO, Bobiquins Estêvão de, 2021)
 
-Repo for the Ontology of Monotheism experiments,
+### Repo for the Ontology of Monotheism experiments,
 by Bobiquins Estevao de Mello and Bernardo Pereira Nunes:
 
 To reproduce the results presented in the experiments from the thesis OntoM, you must follow the steps below. We tried to make it as simple as possible so that researchers not very familiar with python and BERT could reproduce the results with little effort.
