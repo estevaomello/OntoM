@@ -14,10 +14,10 @@ Please, cite this thesis as follow:
 ### (MELLO, B. E. Ontology of Monotheism, 2021) or (MELLO, Bobiquins Estêvão de. Ontology of Monotheism, 2021).
 
 Full quote:
-Mello, Bobiquins Estêvão de
-Ontology of Monotheism / Bobiquins Estêvão de Mello ;
-advisor, Francisco Antonio Pereira Fialho,
-joint advisor, José Leomar Todesco, 2021.
+Mello, Bobiquins Estêvão de.
+Ontology of Monotheism (Bobiquins Estêvão de Mello);
+advisor: Francisco Antonio Pereira Fialho,
+joint advisor: José Leomar Todesco, 2021.
 261 p.
 Thesis (PhD) - The Federal University of Santa Catarina, Technological Center, Graduate Program of Knowledge Engineering and Management , Florianópolis, SC, Brazil, 2021.
 
